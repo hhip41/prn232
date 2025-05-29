@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\Demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68D36C-89EC-4F88-8F44-596BEF606BFD}|Demo1.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\demo1\\controllers\\gadgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E68D36C-89EC-4F88-8F44-596BEF606BFD}|Demo1.csproj|solutionrelative:controllers\\gadgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68D36C-89EC-4F88-8F44-596BEF606BFD}|Demo1.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E68D36C-89EC-4F88-8F44-596BEF606BFD}|Demo1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68D36C-89EC-4F88-8F44-596BEF606BFD}|Demo1.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\demo1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E68D36C-89EC-4F88-8F44-596BEF606BFD}|Demo1.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68D36C-89EC-4F88-8F44-596BEF606BFD}|Demo1.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\demo1\\models\\gadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E68D36C-89EC-4F88-8F44-596BEF606BFD}|Demo1.csproj|solutionrelative:models\\gadget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68D36C-89EC-4F88-8F44-596BEF606BFD}|Demo1.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\demo1\\demo1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7E68D36C-89EC-4F88-8F44-596BEF606BFD}|Demo1.csproj|solutionrelative:demo1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68D36C-89EC-4F88-8F44-596BEF606BFD}|Demo1.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\demo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E68D36C-89EC-4F88-8F44-596BEF606BFD}|Demo1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E68D36C-89EC-4F88-8F44-596BEF606BFD}|Demo1.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\demo1\\demo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E68D36C-89EC-4F88-8F44-596BEF606BFD}|Demo1.csproj|solutionrelative:demo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Demo1.http",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\Demo1\\Demo1.http",
+              "RelativeDocumentMoniker": "Demo1.http",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\Demo1\\Demo1.http",
+              "RelativeToolTip": "Demo1.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-27T03:49:10.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GadgetsController.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\Demo1\\Controllers\\GadgetsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GadgetsController.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\Demo1\\Controllers\\GadgetsController.cs",
+              "RelativeToolTip": "Controllers\\GadgetsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:32:49.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\Demo1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\Demo1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T03:32:23.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\Demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\Demo1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:31:58.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\Demo1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\Demo1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:31:48.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gadget.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\Demo1\\Models\\Gadget.cs",
+              "RelativeDocumentMoniker": "Models\\Gadget.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\Demo1\\Models\\Gadget.cs",
+              "RelativeToolTip": "Models\\Gadget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:31:24.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Demo1",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\Demo1\\Demo1.csproj",
+              "RelativeDocumentMoniker": "Demo1.csproj",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\Demo1\\Demo1.csproj",
+              "RelativeToolTip": "Demo1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T03:31:09.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

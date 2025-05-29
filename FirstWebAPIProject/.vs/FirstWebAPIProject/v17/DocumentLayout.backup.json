@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FPT_UNIVERSITY\\PRN232\\FirstWebAPIProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E25AED01-F174-4CA4-9143-03C1A7B300B9}|FirstWebAPIProject\\FirstWebAPIProject.csproj|e:\\fpt_university\\prn232\\firstwebapiproject\\firstwebapiproject\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25AED01-F174-4CA4-9143-03C1A7B300B9}|FirstWebAPIProject\\FirstWebAPIProject.csproj|solutionrelative:firstwebapiproject\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25AED01-F174-4CA4-9143-03C1A7B300B9}|FirstWebAPIProject\\FirstWebAPIProject.csproj|e:\\fpt_university\\prn232\\firstwebapiproject\\firstwebapiproject\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25AED01-F174-4CA4-9143-03C1A7B300B9}|FirstWebAPIProject\\FirstWebAPIProject.csproj|solutionrelative:firstwebapiproject\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25AED01-F174-4CA4-9143-03C1A7B300B9}|FirstWebAPIProject\\FirstWebAPIProject.csproj|e:\\fpt_university\\prn232\\firstwebapiproject\\firstwebapiproject\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25AED01-F174-4CA4-9143-03C1A7B300B9}|FirstWebAPIProject\\FirstWebAPIProject.csproj|solutionrelative:firstwebapiproject\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25AED01-F174-4CA4-9143-03C1A7B300B9}|FirstWebAPIProject\\FirstWebAPIProject.csproj|e:\\fpt_university\\prn232\\firstwebapiproject\\firstwebapiproject\\dtos\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25AED01-F174-4CA4-9143-03C1A7B300B9}|FirstWebAPIProject\\FirstWebAPIProject.csproj|solutionrelative:firstwebapiproject\\dtos\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25AED01-F174-4CA4-9143-03C1A7B300B9}|FirstWebAPIProject\\FirstWebAPIProject.csproj|e:\\fpt_university\\prn232\\firstwebapiproject\\firstwebapiproject\\dtos\\players\\getplayerdetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25AED01-F174-4CA4-9143-03C1A7B300B9}|FirstWebAPIProject\\FirstWebAPIProject.csproj|solutionrelative:firstwebapiproject\\dtos\\players\\getplayerdetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25AED01-F174-4CA4-9143-03C1A7B300B9}|FirstWebAPIProject\\FirstWebAPIProject.csproj|e:\\fpt_university\\prn232\\firstwebapiproject\\firstwebapiproject\\dtos\\playerinstrument\\createplayerinstrumentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25AED01-F174-4CA4-9143-03C1A7B300B9}|FirstWebAPIProject\\FirstWebAPIProject.csproj|solutionrelative:firstwebapiproject\\dtos\\playerinstrument\\createplayerinstrumentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "E:\\FPT_UNIVERSITY\\PRN232\\FirstWebAPIProject\\FirstWebAPIProject\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "FirstWebAPIProject\\DbSeeder.cs",
+              "ToolTip": "E:\\FPT_UNIVERSITY\\PRN232\\FirstWebAPIProject\\FirstWebAPIProject\\DbSeeder.cs",
+              "RelativeToolTip": "FirstWebAPIProject\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:58:05.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "E:\\FPT_UNIVERSITY\\PRN232\\FirstWebAPIProject\\FirstWebAPIProject\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "FirstWebAPIProject\\Controllers\\PlayersController.cs",
+              "ToolTip": "E:\\FPT_UNIVERSITY\\PRN232\\FirstWebAPIProject\\FirstWebAPIProject\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "FirstWebAPIProject\\Controllers\\PlayersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:53:48.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerService.cs",
+              "DocumentMoniker": "E:\\FPT_UNIVERSITY\\PRN232\\FirstWebAPIProject\\FirstWebAPIProject\\Services\\PlayerService.cs",
+              "RelativeDocumentMoniker": "FirstWebAPIProject\\Services\\PlayerService.cs",
+              "ToolTip": "E:\\FPT_UNIVERSITY\\PRN232\\FirstWebAPIProject\\FirstWebAPIProject\\Services\\PlayerService.cs",
+              "RelativeToolTip": "FirstWebAPIProject\\Services\\PlayerService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwE0AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:52:33.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "E:\\FPT_UNIVERSITY\\PRN232\\FirstWebAPIProject\\FirstWebAPIProject\\DTOs\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "FirstWebAPIProject\\DTOs\\PagedResponse.cs",
+              "ToolTip": "E:\\FPT_UNIVERSITY\\PRN232\\FirstWebAPIProject\\FirstWebAPIProject\\DTOs\\PagedResponse.cs",
+              "RelativeToolTip": "FirstWebAPIProject\\DTOs\\PagedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:50:19.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreatePlayerInstrumentRequest.cs",
+              "DocumentMoniker": "E:\\FPT_UNIVERSITY\\PRN232\\FirstWebAPIProject\\FirstWebAPIProject\\DTOs\\PlayerInstrument\\CreatePlayerInstrumentRequest.cs",
+              "RelativeDocumentMoniker": "FirstWebAPIProject\\DTOs\\PlayerInstrument\\CreatePlayerInstrumentRequest.cs",
+              "ToolTip": "E:\\FPT_UNIVERSITY\\PRN232\\FirstWebAPIProject\\FirstWebAPIProject\\DTOs\\PlayerInstrument\\CreatePlayerInstrumentRequest.cs",
+              "RelativeToolTip": "FirstWebAPIProject\\DTOs\\PlayerInstrument\\CreatePlayerInstrumentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:28:46.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetPlayerDetailResponse.cs",
+              "DocumentMoniker": "E:\\FPT_UNIVERSITY\\PRN232\\FirstWebAPIProject\\FirstWebAPIProject\\DTOs\\Players\\GetPlayerDetailResponse.cs",
+              "RelativeDocumentMoniker": "FirstWebAPIProject\\DTOs\\Players\\GetPlayerDetailResponse.cs",
+              "ToolTip": "E:\\FPT_UNIVERSITY\\PRN232\\FirstWebAPIProject\\FirstWebAPIProject\\DTOs\\Players\\GetPlayerDetailResponse.cs",
+              "RelativeToolTip": "FirstWebAPIProject\\DTOs\\Players\\GetPlayerDetailResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:42:14.66Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
