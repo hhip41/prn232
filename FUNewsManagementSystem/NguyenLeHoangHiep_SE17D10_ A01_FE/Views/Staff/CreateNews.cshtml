@@ -1,0 +1,47 @@
+﻿[HttpGet]
+public async Task<IActionResult>
+    CreateNews()
+    {
+    var categories = new List
+    <object>
+        ();
+
+        // Lấy danh sách danh mục
+        var categoryResponse = await _httpClient.GetAsync("category");
+        if (categoryResponse.IsSuccessStatusCode)
+        {
+        var categoryJson = await categoryResponse.Content.ReadAsStringAsync();
+        categories = JsonSerializer.Deserialize
+        <List<CategoryDto>>(categoryJson,
+            new JsonSerializerOptions { PropertyNameCaseInsensitive = true })
+            ?.Select(c => new { c.CategoryId, c.CategoryName })?.ToList() ?? new List<object>();
+    }
+    else
+    {
+        TempData["Error"] = "Không thể tải danh mục. Vui lòng thử lại.";
+    }
+
+    ViewBag.Categories = categories;
+    ViewBag.StaffId = short.Parse(User.FindFirst("StaffId")?.Value ?? "0"); // Giả định từ auth
+
+    return View(new NewsCreateDto());
+}
+
+[HttpPost]
+[ValidateAntiForgeryToken]
+public async Task<IActionResult> CreateNews(short staffId, NewsCreateDto dto)
+{
+    if (!ModelState.IsValid)
+    {
+        var categoryResponse = await _httpClient.GetAsync("category");
+        if (categoryResponse.IsSuccessStatusCode)
+        {
+            var categoryJson = await categoryResponse.Content.ReadAsStringAsync();
+            ViewBag.Categories = JsonSerializer.Deserialize<List<CategoryDto>>(categoryJson,
+                new JsonSerializerOptions { PropertyNameCaseInsensitive = true })
+                ?.Select(c => new { c.CategoryId, c.CategoryName })?.ToList() ?? new List<object>();
+        }
+        ViewBag.StaffId = staffId;
+        return View(dto);
+    }
+

@@ -1,0 +1,286 @@
+﻿@model List<NguyenLeHoangHiep_SE17D10__A01_FE.Controllers.NewsStatisticViewModel>
+
+@{
+    ViewData["Title"] = "Article Statistics";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var start = (DateTime)ViewBag.Start;
+    var end = (DateTime)ViewBag.End;
+    var currentPage = (int)ViewBag.CurrentPage;
+    var totalPages = (int)ViewBag.TotalPages;
+    var keyword = ViewBag.Keyword as string;
+}
+
+<style>
+    .statistic-container {
+        max-width: 1200px;
+        margin: 2rem auto;
+        padding: 2rem;
+        background: linear-gradient(135deg, #ffffff 0%, #e0f7fa 100%);
+        border-radius: 12px;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+        position: relative;
+        overflow: hidden;
+        z-index: 10;
+    }
+
+    .floating-shapes {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+        z-index: 1;
+    }
+
+    .shape {
+        position: absolute;
+        background: rgba(59, 130, 246, 0.1);
+        border-radius: 50%;
+    }
+
+        .shape:nth-child(1) {
+            width: 70px;
+            height: 70px;
+            left: 10%;
+            top: 15%;
+        }
+
+        .shape:nth-child(2) {
+            width: 90px;
+            height: 90px;
+            left: 30%;
+            top: 60%;
+        }
+
+        .shape:nth-child(3) {
+            width: 60px;
+            height: 60px;
+            left: 75%;
+            top: 20%;
+        }
+
+        .shape:nth-child(4) {
+            width: 80px;
+            height: 80px;
+            left: 85%;
+            top: 70%;
+        }
+
+    h2 {
+        color: #1e3a8a;
+        font-size: 2.2rem;
+        font-weight: 700;
+        margin-bottom: 1.5rem;
+        text-align: center;
+        text-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        letter-spacing: 0.5px;
+    }
+
+    .filter-form {
+        margin-bottom: 1.5rem;
+        display: flex;
+        gap: 0.5rem;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+        .filter-form label {
+            font-weight: 500;
+            color: #1e3a8a;
+            margin-right: 0.5rem;
+            font-size: 1rem;
+        }
+
+        .filter-form input[type="date"],
+        .filter-form input[type="text"] {
+            padding: 0.75rem;
+            border: 1px solid rgba(59, 130, 246, 0.3);
+            border-radius: 8px;
+            font-size: 1rem;
+            background: rgba(255, 255, 255, 0.9);
+            transition: all 0.3s ease;
+        }
+
+            .filter-form input[type="date"]:focus,
+            .filter-form input[type="text"]:focus {
+                border-color: #3b82f6;
+                outline: none;
+                box-shadow: 0 0 8px rgba(59, 130, 246, 0.3);
+                background: #fff;
+            }
+
+        .filter-form input[type="text"] {
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .filter-form button {
+            padding: 0.75rem 1.5rem;
+            background: linear-gradient(90deg, #3b82f6 0%, #1e3a8a 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+            .filter-form button:hover {
+                background: linear-gradient(90deg, #1e3a8a 0%, #3b82f6 100%);
+                transform: translateY(-2px);
+                box-shadow: 0 4px 12px rgba(59, 130, 246, 0.4);
+            }
+
+            .filter-form button::before {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: -100%;
+                width: 100%;
+                height: 100%;
+                background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+                transition: left 0.5s ease;
+            }
+
+            .filter-form button:hover::before {
+                left: 100%;
+            }
+
+    table {
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 0;
+        margin-bottom: 1.5rem;
+        background: #fff;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    th, td {
+        padding: 0.75rem;
+        text-align: left;
+        border: none;
+        border-bottom: 1px solid #e5e7eb;
+    }
+
+    th {
+        background: linear-gradient(90deg, #3b82f6 0%, #1e3a8a 100%);
+        color: white;
+        font-weight: 600;
+        text-transform: uppercase;
+        font-size: 0.9rem;
+    }
+
+    td {
+        color: #1e3a8a;
+        font-size: 0.95rem;
+    }
+
+    tr {
+        transition: all 0.3s ease;
+    }
+
+        tr:hover {
+            background: #e0f7fa;
+            transform: scale(1.01);
+        }
+
+    .pagination {
+        text-align: center;
+        margin-top: 1.5rem;
+    }
+
+        .pagination a, .pagination strong {
+            margin: 0 0.3rem;
+            padding: 0.5rem 1rem;
+            text-decoration: none;
+            color: #3b82f6;
+            border: 1px solid rgba(59, 130, 246, 0.3);
+            border-radius: 8px;
+            font-size: 0.9rem;
+            transition: all 0.3s ease;
+        }
+
+            .pagination a:hover {
+                background: linear-gradient(90deg, #3b82f6 0%, #1e3a8a 100%);
+                color: white;
+                border-color: transparent;
+            }
+
+        .pagination strong {
+            background: linear-gradient(90deg, #3b82f6 0%, #1e3a8a 100%);
+            color: white;
+            border-color: transparent;
+        }
+
+    .icon {
+        margin-right: 0.5rem;
+        font-size: 1rem;
+        color: #3b82f6;
+    }
+</style>
+
+<div class="statistic-container">
+    <div class="floating-shapes">
+        <div class="shape"></div>
+        <div class="shape"></div>
+        <div class="shape"></div>
+        <div class="shape"></div>
+    </div>
+
+    <h2><i class="fas fa-chart-bar icon"></i>Article Statistics from @start.ToShortDateString() to @end.ToShortDateString()</h2>
+
+    <form method="get" asp-action="Statistic" asp-controller="Admin" class="filter-form">
+        <label for="start"><i class="fas fa-calendar-alt icon"></i>Start</label>
+        <input type="date" id="start" name="start" value="@start.ToString("yyyy-MM-dd")" />
+        <label for="end"><i class="fas fa-calendar-alt icon"></i>End</label>
+        <input type="date" id="end" name="end" value="@end.ToString("yyyy-MM-dd")" />
+        <input type="text" name="keyword" value="@keyword" placeholder="Search by title..." />
+        <button type="submit"><i class="fas fa-filter icon"></i>Filter</button>
+    </form>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Created Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.NewsTitle</td>
+                    <td>@item.AuthorName</td>
+                    <td>@item.CreatedDate.ToString("dd/MM/yyyy")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    @if (totalPages > 1)
+    {
+        <div class="pagination">
+            Page:
+            @for (int i = 1; i <= totalPages; i++)
+            {
+                if (i == currentPage)
+                {
+                    <strong>@i</strong>
+                }
+                else
+                {
+                    <a href="@Url.Action("Statistic", "Admin", new {
+                            start = start.ToString("yyyy-MM-dd"),
+                            end = end.ToString("yyyy-MM-dd"),
+                            keyword = keyword,
+                            page = i
+                        })">@i</a>
+                }
+            }
+        </div>
+    }
+</div>

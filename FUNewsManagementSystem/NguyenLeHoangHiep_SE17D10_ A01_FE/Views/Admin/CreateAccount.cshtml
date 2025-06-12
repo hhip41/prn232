@@ -1,0 +1,195 @@
+﻿@model NguyenLeHoangHiep_SE17D10__A01_FE.Controllers.AccountViewModel
+
+@{
+    ViewData["Title"] = "Create Account";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .create-account-container {
+        max-width: 500px;
+        margin: 2rem auto;
+        padding: 2rem;
+        background: linear-gradient(135deg, #ffffff 0%, #e0f7fa 100%);
+        border-radius: 12px;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+        position: relative;
+        overflow: hidden;
+        z-index: 10;
+    }
+
+    .floating-shapes {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+        z-index: 1;
+    }
+
+    .shape {
+        position: absolute;
+        background: rgba(59, 130, 246, 0.1);
+        border-radius: 50%;
+    }
+
+        .shape:nth-child(1) {
+            width: 60px;
+            height: 60px;
+            left: 10%;
+            top: 15%;
+        }
+
+        .shape:nth-child(2) {
+            width: 80px;
+            height: 80px;
+            left: 30%;
+            top: 60%;
+        }
+
+        .shape:nth-child(3) {
+            width: 50px;
+            height: 50px;
+            left: 75%;
+            top: 20%;
+        }
+
+    h2 {
+        color: #1e3a8a;
+        font-size: 2.2rem;
+        font-weight: 700;
+        margin-bottom: 1.5rem;
+        text-align: center;
+        text-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        letter-spacing: 0.5px;
+    }
+
+    .form-group {
+        margin-bottom: 1.25rem;
+        position: relative;
+        z-index: 10;
+    }
+
+    label {
+        display: block;
+        margin-bottom: 0.5rem;
+        font-weight: 500;
+        color: #1e3a8a;
+        font-size: 1rem;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="password"],
+    select {
+        width: 100%;
+        padding: 0.75rem;
+        border: 1px solid rgba(59, 130, 246, 0.3);
+        border-radius: 8px;
+        font-size: 1rem;
+        background: rgba(255, 255, 255, 0.9);
+        transition: all 0.3s ease;
+        box-sizing: border-box;
+    }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="password"]:focus,
+        select:focus {
+            border-color: #3b82f6;
+            outline: none;
+            box-shadow: 0 0 8px rgba(59, 130, 246, 0.3);
+            background: #fff;
+        }
+
+    select {
+        appearance: none;
+        background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='5' viewBox='0 0 10 5'><path fill='%233b82f6' d='M0 0h10L5 5z'/></svg>") no-repeat right 10px center;
+        background-size: 10px;
+    }
+
+    .validation-message {
+        color: #dc3545;
+        font-size: 0.9rem;
+        margin-top: 0.25rem;
+        display: block;
+        font-weight: 500;
+    }
+
+    button {
+        width: 100%;
+        padding: 0.75rem;
+        background: linear-gradient(90deg, #28a745 0%, #1e7e34 100%);
+        border: none;
+        border-radius: 8px;
+        color: white;
+        font-size: 1rem;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        position: relative;
+        overflow: hidden;
+    }
+
+        button:hover {
+            background: linear-gradient(90deg, #1e7e34 0%, #28a745 100%);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(40, 167, 69, 0.4);
+        }
+
+        button::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+            transition: left 0.5s ease;
+        }
+
+        button:hover::before {
+            left: 100%;
+        }
+
+    .icon {
+        margin-right: 0.5rem;
+        font-size: 1rem;
+        color: #3b82f6;
+    }
+</style>
+
+<div class="create-account-container">
+    <div class="floating-shapes">
+        <div class="shape"></div>
+        <div class="shape"></div>
+        <div class="shape"></div>
+    </div>
+
+    <h2><i class="fas fa-user-plus icon"></i>Create Account</h2>
+
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="AccountName"><i class="fas fa-user icon"></i>Name</label>
+            <input asp-for="AccountName" />
+            <span asp-validation-for="AccountName" class="validation-message"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="AccountEmail"><i class="fas fa-envelope icon"></i>Email</label>
+            <input asp-for="AccountEmail" />
+            <span asp-validation-for="AccountEmail" class="validation-message"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="AccountPassword"><i class="fas fa-lock icon"></i>Password</label>
+            <input asp-for="AccountPassword" type="password" />
+            <span asp-validation-for="AccountPassword" class="validation-message"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="AccountRole"><i class="fas fa-user-tag icon"></i>Role</label>
+            <select asp-for="AccountRole">
+                <option value="1">Staff</option>
+                <option value="2">Lecturer</option>
+            </select>
+        </div>
+        <button type="submit"><i class="fas fa-save icon"></i>Create</button>
+    </form>
+</div>

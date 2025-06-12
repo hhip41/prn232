@@ -1,0 +1,153 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .home-container {
+        max-width: 800px;
+        margin: 3rem auto;
+        padding: 2.5rem;
+        background: linear-gradient(135deg, #ffffff 0%, #e0f7fa 100%);
+        border-radius: 12px;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+        position: relative;
+        overflow: hidden;
+        z-index: 10;
+        text-align: center;
+    }
+
+    .floating-shapes {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+        z-index: 1;
+    }
+
+    .shape {
+        position: absolute;
+        background: rgba(59, 130, 246, 0.1);
+        border-radius: 50%;
+        animation: float 18s infinite linear;
+    }
+
+    .shape:nth-child(1) {
+        width: 70px;
+        height: 70px;
+        left: 15%;
+        top: 15%;
+        animation-delay: -4s;
+    }
+
+    .shape:nth-child(2) {
+        width: 90px;
+        height: 90px;
+        left: 35%;
+        top: 65%;
+        animation-delay: -9s;
+    }
+
+    .shape:nth-child(3) {
+        width: 60px;
+        height: 60px;
+        left: 75%;
+        top: 25%;
+        animation-delay: -6s;
+    }
+
+    .shape:nth-child(4) {
+        width: 80px;
+        height: 80px;
+        left: 85%;
+        top: 80%;
+        animation-delay: -12s;
+    }
+
+   
+    .home-container h1 {
+        color: #1e3a8a;
+        font-size: clamp(2.5rem, 5vw, 3.5rem);
+        font-weight: 700;
+        margin-bottom: 1rem;
+        text-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        letter-spacing: 1px;
+        position: relative;
+    }
+
+    .home-container h1::after {
+        content: '';
+        position: absolute;
+        bottom: -10px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100px;
+        height: 3px;
+        background: linear-gradient(90deg, #3b82f6, #1e3a8a);
+        border-radius: 2px;
+    }
+
+    .home-container p {
+        color: #3b82f6;
+        font-size: clamp(1.1rem, 2.5vw, 1.3rem);
+        font-weight: 400;
+        margin-bottom: 2rem;
+        line-height: 1.6;
+    }
+
+    .home-container a {
+        display: inline-block;
+        padding: 0.75rem 1.5rem;
+        background: linear-gradient(90deg, #3b82f6 0%, #1e3a8a 100%);
+        color: white;
+        text-decoration: none;
+        border-radius: 8px;
+        font-size: 1rem;
+        font-weight: 500;
+        transition: all 0.3s ease;
+        position: relative;
+        overflow: hidden;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .home-container a:hover {
+        background: linear-gradient(90deg, #1e3a8a 0%, #3b82f6 100%);
+        transform: translateY(-2px);
+        box-shadow: 0 8px 24px rgba(59, 130, 246, 0.4);
+    }
+
+    .home-container a::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+        transition: left 0.5s ease;
+    }
+
+    .home-container a:hover::before {
+        left: 100%;
+    }
+
+    .welcome-icon {
+        margin-right: 0.5rem;
+        font-size: 1.5rem;
+        color: #3b82f6;
+    }
+
+   
+</style>
+
+<div class="home-container">
+    <div class="floating-shapes">
+        <div class="shape"></div>
+        <div class="shape"></div>
+        <div class="shape"></div>
+        <div class="shape"></div>
+    </div>
+
+    <h1><i class="fas fa-star welcome-icon"></i>Welcome</h1>
+   
+</div>

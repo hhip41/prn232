@@ -1,0 +1,33 @@
+﻿@model DataAccessObjects.DTO.NewsCreateDto
+@{
+    ViewData["Title"] = "Edit News";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Update News Article</h2>
+
+@if (TempData["Error"] != null)
+{
+    <div style="color:red;">@TempData["Error"]</div>
+}
+
+<form method="post">
+    <div>
+        <label>Title</label>
+        <input asp-for="NewsTitle" />
+    </div>
+    <div>
+        <label>Content</label>
+        <textarea asp-for="NewsContent"></textarea>
+    </div>
+    <div>
+        <label>Category ID</label>
+        <input asp-for="CategoryId" />
+    </div>
+    <div>
+        <label>Tag IDs</label>
+        <input name="TagIds" value="@string.Join(",", Model.TagIds)" />
+    </div>
+    <input type="hidden" name="staffId" value="@Context.Session.GetInt32("UserId")" />
+    <button type="submit">Save</button>
+</form>

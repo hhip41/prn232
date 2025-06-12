@@ -1,0 +1,140 @@
+﻿@{
+    ViewData["Title"] = "Staff Dashboard";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .staff-dashboard-container {
+        max-width: 800px;
+        margin: 2rem auto;
+        padding: 2rem;
+        background: linear-gradient(135deg, #ffffff 0%, #e0f7fa 100%);
+        border-radius: 12px;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+        position: relative;
+        overflow: hidden;
+        z-index: 10;
+        text-align: center;
+    }
+
+    .floating-shapes {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+        z-index: 1;
+    }
+
+    .shape {
+        position: absolute;
+        background: rgba(59, 130, 246, 0.1);
+        border-radius: 50%;
+    }
+
+        .shape:nth-child(1) {
+            width: 60px;
+            height: 60px;
+            left: 10%;
+            top: 15%;
+        }
+
+        .shape:nth-child(2) {
+            width: 80px;
+            height: 80px;
+            left: 30%;
+            top: 60%;
+        }
+
+        .shape:nth-child(3) {
+            width: 50px;
+            height: 50px;
+            left: 75%;
+            top: 20%;
+        }
+
+    h2 {
+        color: #1e3a8a;
+        font-size: 2.2rem;
+        font-weight: 700;
+        margin-bottom: 1.5rem;
+        text-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        letter-spacing: 0.5px;
+    }
+
+    .dashboard-list {
+        list-style: none;
+        padding: 0;
+        max-width: 500px;
+        margin: 0 auto;
+    }
+
+        .dashboard-list li {
+            margin-bottom: 1rem;
+        }
+
+        .dashboard-list a {
+            display: flex;
+            align-items: center;
+            padding: 1rem 1.5rem;
+            background: linear-gradient(90deg, #3b82f6 0%, #1e3a8a 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+            .dashboard-list a:hover {
+                background: linear-gradient(90deg, #1e3a8a 0%, #3b82f6 100%);
+                transform: translateY(-2px);
+                box-shadow: 0 8px 24px rgba(59, 130, 246, 0.4);
+            }
+
+            .dashboard-list a::before {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: -100%;
+                width: 100%;
+                height: 100%;
+                background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+                transition: left 0.5s ease;
+            }
+
+            .dashboard-list a:hover::before {
+                left: 100%;
+            }
+
+    .icon {
+        margin-right: 0.75rem;
+        font-size: 1.2rem;
+        color: #e0f7fa;
+    }
+</style>
+
+<div class="staff-dashboard-container">
+    <div class="floating-shapes">
+        <div class="shape"></div>
+        <div class="shape"></div>
+        <div class="shape"></div>
+    </div>
+
+    <h2><i class="fas fa-user-circle icon"></i>Welcome to the Staff Dashboard</h2>
+
+    <ul class="dashboard-list">
+        <li>
+            <a href="/Staff/CategoryList"><i class="fas fa-folder icon"></i>Manage Categories</a>
+        </li>
+        <li>
+            <a href="/Staff/AllNews"><i class="fas fa-newspaper icon"></i>Manage Articles</a>
+        </li>
+        <li>
+            <a href="/Staff/MyNews?staffId=@Context.Session.GetInt32("id")"><i class="fas fa-file-alt icon"></i>My Articles</a>
+        </li>
+
+    </ul>
+</div>

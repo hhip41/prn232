@@ -1,0 +1,66 @@
+﻿@model List<DataAccessObjects.DTO.NewsDto>
+@{
+    ViewData["Title"] = "News List";
+    var currentPage = ViewBag.CurrentPage ?? 1;
+    var totalPages = ViewBag.TotalPages ?? 1;
+    var keyword = ViewBag.Keyword as string;
+}
+
+<h2>News List</h2>
+
+<form method="get">
+    <input type="text" name="keyword" value="@keyword" placeholder="Search..." />
+    <button type="submit">Search</button>
+</form>
+
+<a href="/Staff/CreateNews">Create New Article</a>
+
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Created Date</th>
+            <th>Category</th>
+            <th>Tags</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.NewsTitle</td>
+                <td>@item.CreatedDate?.ToString("dd/MM/yyyy")</td>
+                <td>@item.CategoryName</td>
+                <td>@string.Join(", ", item.Tags)</td>
+                <td>@(item.NewsStatus == true ? "Visible" : "Hidden")</td>
+                <td>
+                    <a href="/Staff/UpdateNews?id=@item.NewsArticleId">Edit</a> |
+                    <form asp-action="DeleteNews" method="post" style="display:inline">
+                        <input type="hidden" name="id" value="@item.NewsArticleId" />
+                        <button type="submit" onclick="return confirm('Confirm delete?')">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (totalPages > 1)
+{
+    <div>
+        Page:
+        @for (int i = 1; i <= totalPages; i++)
+        {
+            if (i == (int)currentPage)
+            {
+                <strong>@i</strong>
+            }
+            else
+            {
+                <a href="?keyword=@keyword&page=@i">@i</a>
+            }
+        }
+    </div>
+}
