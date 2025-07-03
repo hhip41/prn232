@@ -1,0 +1,80 @@
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\appsettings.Development.json
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\appsettings.json
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\ASS2_FE.staticwebassets.runtime.json
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\ASS2_FE.staticwebassets.endpoints.json
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\ASS2_FE.exe
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\ASS2_FE.deps.json
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\ASS2_FE.runtimeconfig.json
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\ASS2_FE.dll
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\ASS2_FE.pdb
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\PRN232\code\ASS2\ASS2_FE\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.csproj.AssemblyReference.cache
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.AssemblyInfoInputs.cache
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.AssemblyInfo.cs
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.csproj.CoreCompileInputs.cache
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.MvcApplicationPartsAssemblyInfo.cache
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.RazorAssemblyInfo.cache
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.RazorAssemblyInfo.cs
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.sourcelink.json
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\scopedcss\bundle\ASS2_FE.styles.css
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\scopedcss\projectbundle\ASS2_FE.bundle.scp.css
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\staticwebassets.build.json
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\staticwebassets.development.json
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.csproj.Up2Date
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.dll
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\refint\ASS2_FE.dll
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.pdb
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.genruntimeconfig.cache
+D:\PRN232\code\ASS2\ASS2_FE\obj\Debug\net8.0\ref\ASS2_FE.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\bin\Debug\net8.0\appsettings.json
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\bin\Debug\net8.0\ASS2_FE.staticwebassets.runtime.json
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\bin\Debug\net8.0\ASS2_FE.exe
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\bin\Debug\net8.0\ASS2_FE.deps.json
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\bin\Debug\net8.0\ASS2_FE.runtimeconfig.json
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\bin\Debug\net8.0\ASS2_FE.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\bin\Debug\net8.0\ASS2_FE.pdb
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.csproj.AssemblyReference.cache
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.AssemblyInfoInputs.cache
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.AssemblyInfo.cs
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.csproj.CoreCompileInputs.cache
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.RazorAssemblyInfo.cache
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.RazorAssemblyInfo.cs
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\staticwebassets\msbuild.ASS2_FE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\staticwebassets\msbuild.build.ASS2_FE.props
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASS2_FE.props
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASS2_FE.props
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\scopedcss\bundle\ASS2_FE.styles.css
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\scopedcss\projectbundle\ASS2_FE.bundle.scp.css
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.csproj.Up2Date
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\refint\ASS2_FE.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.pdb
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\ASS2_FE.genruntimeconfig.cache
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\ASS2_FE\obj\Debug\net8.0\ref\ASS2_FE.dll

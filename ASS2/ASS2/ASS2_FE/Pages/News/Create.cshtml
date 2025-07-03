@@ -1,0 +1,85 @@
+﻿@page
+@model ASS2_FE.Pages.News.CreateModel
+@{
+    ViewData["Title"] = "Tạo bài viết mới";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <h3 class="mb-0">📝 Tạo bài viết mới</h3>
+        </div>
+        <div class="card-body">
+            <form method="post" class="needs-validation" novalidate>
+                <div class="mb-4">
+                    <label asp-for="Item.NewsTitle" class="form-label fw-bold">Tiêu đề</label>
+                    <input asp-for="Item.NewsTitle" class="form-control" placeholder="Nhập tiêu đề bài viết" required />
+                    <span asp-validation-for="Item.NewsTitle" class="text-danger"></span>
+                </div>
+
+                <div class="mb-4">
+                    <label asp-for="Item.Headline" class="form-label fw-bold">Tiêu đề phụ</label>
+                    <textarea asp-for="Item.Headline" class="form-control" rows="3" placeholder="Nhập tiêu đề phụ" required></textarea>
+                    <span asp-validation-for="Item.Headline" class="text-danger"></span>
+                </div>
+
+                <div class="mb-4">
+                    <label asp-for="Item.NewsContent" class="form-label fw-bold">Nội dung</label>
+                    <textarea asp-for="Item.NewsContent" class="form-control" rows="10" placeholder="Nhập nội dung bài viết" required></textarea>
+                    <span asp-validation-for="Item.NewsContent" class="text-danger"></span>
+                </div>
+
+                <div class="mb-4">
+                    <label asp-for="Item.CategoryId" class="form-label fw-bold">Chuyên mục</label>
+                    <select asp-for="Item.CategoryId" asp-items="Model.CategoryOptions" class="form-select" required>
+                        <option value="">-- Chọn chuyên mục --</option>
+                    </select>
+                    <span asp-validation-for="Item.CategoryId" class="text-danger"></span>
+                </div>
+
+                <div class="mb-4">
+                    <label class="form-label fw-bold">Tags</label>
+                    <select asp-for="SelectedTags"
+                            asp-items="@(new MultiSelectList(Model.AllTags, "TagId", "TagName"))"
+                            class="form-select" multiple>
+                    </select>
+                </div>
+
+                <div class="mb-4 form-check">
+                    <input asp-for="Item.NewsStatus" class="form-check-input" type="checkbox" id="newsStatus" />
+                    <label class="form-check-label" for="newsStatus">Đã đăng</label>
+                </div>
+
+                <div class="d-flex gap-2">
+                    <button type="submit" class="btn btn-success">
+                        <i class="bi bi-save me-2"></i>Tạo mới
+                    </button>
+                    <a href="/News/All" class="btn btn-outline-secondary">
+                        <i class="bi bi-x-circle me-2"></i>Huỷ
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        // Bootstrap form validation
+        (function () {
+            'use strict'
+            var forms = document.querySelectorAll('.needs-validation')
+            Array.prototype.slice.call(forms)
+                .forEach(function (form) {
+                    form.addEventListener('submit', function (event) {
+                        if (!form.checkValidity()) {
+                            event.preventDefault()
+                            event.stopPropagation()
+                        }
+                        form.classList.add('was-validated')
+                    }, false)
+                })
+        })()
+    </script>
+}

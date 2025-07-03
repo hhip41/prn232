@@ -1,0 +1,96 @@
+﻿@page
+@model ASS2_FE.Pages.News.AllModel
+@{
+    ViewData["Title"] = "Tất cả bài viết";
+}
+
+<div class="container mx-auto p-6">
+    <h2 class="mb-6 text-3xl font-bold text-indigo-900">
+        Danh sách tất cả bài viết
+    </h2>
+    <div class="mb-6 flex justify-between items-center">
+        <a href="/News/Create" class="btn bg-green-500 text-white px-4 py-2 rounded-lg hover:bg-green-600 transition-colors">
+            Tạo bài viết
+        </a>
+    </div>
+
+    <div class="overflow-x-auto shadow-md rounded-lg">
+        <table class="w-full text-sm text-left text-gray-700 bg-white">
+            <thead class="text-xs uppercase bg-gradient-to-r from-indigo-600 to-purple-600 text-white">
+                <tr>
+                    <th class="px-4 py-3">ID</th>
+                    <th class="px-4 py-3">Tiêu đề</th>
+                    <th class="px-4 py-3">Chuyên mục</th>
+                    <th class="px-4 py-3">Người viết</th>
+                    <th class="px-4 py-3">Ngày tạo</th>
+                    @if (HttpContext.Session.GetString("role") == "1" || HttpContext.Session.GetString("role") == "Admin")
+                    {
+                        <th class="px-4 py-3">Trạng thái</th>
+                    }
+                    <th class="px-4 py-3">Tags</th>
+                    @if (HttpContext.Session.GetString("role") == "1" || HttpContext.Session.GetString("role") == "Admin")
+                    {
+                        <th class="px-4 py-3">Thao tác</th>
+                    }
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.NewsList != null && Model.NewsList.Any())
+                {
+                    foreach (var news in Model.NewsList)
+                    {
+                        <tr class="border-b hover:bg-gray-50 transition-colors">
+                            <td class="px-4 py-3 text-gray-800">@news.NewsArticleId</td>
+                            <td class="px-4 py-3 text-gray-800">@news.NewsTitle</td>
+                            <td class="px-4 py-3 text-gray-800">@news.Category?.CategoryName</td>
+                            <td class="px-4 py-3 text-gray-800">@news.CreatedBy?.AccountName</td>
+                            <td class="px-4 py-3 text-gray-800">@news.CreatedDate?.ToString("dd/MM/yyyy")</td>
+                            @if (HttpContext.Session.GetString("role") == "Staff" || HttpContext.Session.GetString("role") == "Admin")
+                            {
+                                <td class="px-4 py-3">
+                                    @if (news.NewsStatus == true)
+                                    {
+                                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-sm font-medium bg-green-100 text-green-800">Đã đăng</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-sm font-medium bg-gray-100 text-gray-800">Nháp</span>
+                                    }
+                                </td>
+                            }
+                            <td class="px-4 py-3">
+                                @if (news.Tags?.Values != null)
+                                {
+                                    foreach (var tag in news.Tags.Values)
+                                    {
+                                        <span class="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-blue-100 text-blue-800 mr-1">@tag.TagName</span>
+                                    }
+                                }
+                                else
+                                {
+                                    <span class="text-gray-500 italic">Không có</span>
+                                }
+                            </td>
+                            @if (HttpContext.Session.GetString("role") == "Staff" || HttpContext.Session.GetString("role") == "Admin")
+                            {
+                                <td class="px-4 py-3 space-x-2">
+                                    <a href="/News/Edit?id=@news.NewsArticleId" class="btn bg-yellow-500 text-white px-3 py-1 rounded-lg hover:bg-yellow-600 transition-colors">Sửa</a>
+                                    <a href="/News/Delete/@news.NewsArticleId" class="btn bg-red-500 text-white px-3 py-1 rounded-lg hover:bg-red-600 transition-colors">Xoá</a>
+                                </td>
+                            }
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="@(HttpContext.Session.GetString("role") == "Staff" || HttpContext.Session.GetString("role") == "Admin" ? 8 : 6)" class="px-4 py-3 text-center text-gray-500">Không có bài viết nào.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@* Link Tailwind CSS từ CDN *@
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />

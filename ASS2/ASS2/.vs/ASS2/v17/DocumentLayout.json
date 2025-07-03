@@ -1,0 +1,1129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\admin\\allaccounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\admin\\allaccounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E827B1E7-CED4-4EF0-9AEF-35901F860F68}|DataAccess\\DataAccess.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\dataaccess\\tagdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E827B1E7-CED4-4EF0-9AEF-35901F860F68}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\tagdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A093C5D-3DF7-48A7-B44E-A6201EF5DCD3}|Repository\\Repository.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\repository\\irepository\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A093C5D-3DF7-48A7-B44E-A6201EF5DCD3}|Repository\\Repository.csproj|solutionrelative:repository\\irepository\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\service\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|solutionrelative:service\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|solutionrelative:ass2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\news\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\news\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC0408C-D19B-4CFA-BB61-C8EBA5333CFE}|BusinessObject\\BusinessObject.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\businessobject\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC0408C-D19B-4CFA-BB61-C8EBA5333CFE}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\news\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\news\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|solutionrelative:ass2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\news\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\news\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A093C5D-3DF7-48A7-B44E-A6201EF5DCD3}|Repository\\Repository.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\repository\\repository\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A093C5D-3DF7-48A7-B44E-A6201EF5DCD3}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A093C5D-3DF7-48A7-B44E-A6201EF5DCD3}|Repository\\Repository.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\repository\\repository\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A093C5D-3DF7-48A7-B44E-A6201EF5DCD3}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\service\\iservice\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|solutionrelative:service\\iservice\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\service\\service\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|solutionrelative:service\\service\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\service\\service\\systemaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|solutionrelative:service\\service\\systemaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\service\\service\\newsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|solutionrelative:service\\service\\newsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\service\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|solutionrelative:service\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|solutionrelative:ass2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|solutionrelative:ass2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\service\\iservice\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|solutionrelative:service\\iservice\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\service\\iservice\\isystemaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|solutionrelative:service\\iservice\\isystemaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\service\\iservice\\inewsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|solutionrelative:service\\iservice\\inewsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\service\\iservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|solutionrelative:service\\iservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E827B1E7-CED4-4EF0-9AEF-35901F860F68}|DataAccess\\DataAccess.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\dataaccess\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E827B1E7-CED4-4EF0-9AEF-35901F860F68}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E827B1E7-CED4-4EF0-9AEF-35901F860F68}|DataAccess\\DataAccess.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E827B1E7-CED4-4EF0-9AEF-35901F860F68}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E827B1E7-CED4-4EF0-9AEF-35901F860F68}|DataAccess\\DataAccess.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\dataaccess\\newsarticledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E827B1E7-CED4-4EF0-9AEF-35901F860F68}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\newsarticledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|solutionrelative:ass2\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2\\controllers\\systemaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|solutionrelative:ass2\\controllers\\systemaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2\\controllers\\newsarticlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|solutionrelative:ass2\\controllers\\newsarticlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|solutionrelative:ass2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|solutionrelative:ass2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\news\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\news\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC0408C-D19B-4CFA-BB61-C8EBA5333CFE}|BusinessObject\\BusinessObject.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\businessobject\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC0408C-D19B-4CFA-BB61-C8EBA5333CFE}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\admin\\allaccounts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\admin\\allaccounts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\news\\all.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\news\\all.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC0408C-D19B-4CFA-BB61-C8EBA5333CFE}|BusinessObject\\BusinessObject.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\businessobject\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC0408C-D19B-4CFA-BB61-C8EBA5333CFE}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2_fe\\pages\\news\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DC5ACA-3550-4F01-AB4D-E7BF635C073C}|ASS2_FE\\ASS2_FE.csproj|solutionrelative:ass2_fe\\pages\\news\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC0408C-D19B-4CFA-BB61-C8EBA5333CFE}|BusinessObject\\BusinessObject.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\businessobject\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC0408C-D19B-4CFA-BB61-C8EBA5333CFE}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC0408C-D19B-4CFA-BB61-C8EBA5333CFE}|BusinessObject\\BusinessObject.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\businessobject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC0408C-D19B-4CFA-BB61-C8EBA5333CFE}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A093C5D-3DF7-48A7-B44E-A6201EF5DCD3}|Repository\\Repository.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\repository\\repository\\systemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A093C5D-3DF7-48A7-B44E-A6201EF5DCD3}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\systemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A093C5D-3DF7-48A7-B44E-A6201EF5DCD3}|Repository\\Repository.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\repository\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A093C5D-3DF7-48A7-B44E-A6201EF5DCD3}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC0408C-D19B-4CFA-BB61-C8EBA5333CFE}|BusinessObject\\BusinessObject.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\businessobject\\models\\adminconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC0408C-D19B-4CFA-BB61-C8EBA5333CFE}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\adminconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2\\ass2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|solutionrelative:ass2\\ass2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EEDD4E30-6B26-4259-9E0F-8F68121D32AD}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A093C5D-3DF7-48A7-B44E-A6201EF5DCD3}|Repository\\Repository.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\repository\\irepository\\isystemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A093C5D-3DF7-48A7-B44E-A6201EF5DCD3}|Repository\\Repository.csproj|solutionrelative:repository\\irepository\\isystemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A093C5D-3DF7-48A7-B44E-A6201EF5DCD3}|Repository\\Repository.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\repository\\irepository\\inewsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A093C5D-3DF7-48A7-B44E-A6201EF5DCD3}|Repository\\Repository.csproj|solutionrelative:repository\\irepository\\inewsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A093C5D-3DF7-48A7-B44E-A6201EF5DCD3}|Repository\\Repository.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A093C5D-3DF7-48A7-B44E-A6201EF5DCD3}|Repository\\Repository.csproj|solutionrelative:repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E827B1E7-CED4-4EF0-9AEF-35901F860F68}|DataAccess\\DataAccess.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\dataaccess\\systemaccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E827B1E7-CED4-4EF0-9AEF-35901F860F68}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\systemaccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E827B1E7-CED4-4EF0-9AEF-35901F860F68}|DataAccess\\DataAccess.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E827B1E7-CED4-4EF0-9AEF-35901F860F68}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC0408C-D19B-4CFA-BB61-C8EBA5333CFE}|BusinessObject\\BusinessObject.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CC0408C-D19B-4CFA-BB61-C8EBA5333CFE}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\ass2\\ass2\\ass2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49EE2B5-2DE2-484D-BB7A-76925F516486}|ASS2\\ASS2.csproj|solutionrelative:ass2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASS2_FE\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T00:55:22.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "ASS2_FE\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T00:55:18.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASS2_FE\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T00:17:12.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Error.cshtml",
+              "RelativeToolTip": "ASS2_FE\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T16:33:55.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ASS2_FE\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T15:39:15.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ASS2_FE\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\appsettings.Development.json",
+              "RelativeToolTip": "ASS2_FE\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T12:43:29.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASS2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASS2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T12:42:41.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ASS2\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\appsettings.Development.json",
+              "RelativeToolTip": "ASS2\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T12:39:27.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\News\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\News\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\News\\Create.cshtml.cs",
+              "RelativeToolTip": "ASS2_FE\\Pages\\News\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:52:33.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ASS2\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ASS2\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:57:27.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "ASS2\\Controllers\\TagsController.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "ASS2\\Controllers\\TagsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:58:15.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\Program.cs",
+              "RelativeDocumentMoniker": "ASS2\\Program.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\Program.cs",
+              "RelativeToolTip": "ASS2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:39:17.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AllAccounts.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Admin\\AllAccounts.cshtml.cs",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\Admin\\AllAccounts.cshtml.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Admin\\AllAccounts.cshtml.cs",
+              "RelativeToolTip": "ASS2_FE\\Pages\\Admin\\AllAccounts.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T20:07:20.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\appsettings.json",
+              "RelativeDocumentMoniker": "ASS2\\appsettings.json",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\appsettings.json",
+              "RelativeToolTip": "ASS2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T12:03:47.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\News\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\News\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\News\\Create.cshtml",
+              "RelativeToolTip": "ASS2_FE\\Pages\\News\\Create.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwEoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T22:52:12.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\appsettings.json",
+              "RelativeDocumentMoniker": "ASS2_FE\\appsettings.json",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\appsettings.json",
+              "RelativeToolTip": "ASS2_FE\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T19:21:12.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "ASS2_FE\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:32:53.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\News\\All.cshtml",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\News\\All.cshtml",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\News\\All.cshtml",
+              "RelativeToolTip": "ASS2_FE\\Pages\\News\\All.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAUwE8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T19:39:10.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "NewsArticle.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\BusinessObject\\Models\\NewsArticle.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\NewsArticle.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\BusinessObject\\Models\\NewsArticle.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\NewsArticle.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T20:30:19.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "All.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\News\\All.cshtml.cs",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\News\\All.cshtml.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\News\\All.cshtml.cs",
+              "RelativeToolTip": "ASS2_FE\\Pages\\News\\All.cshtml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:39:28.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Admin\\Index.cshtml",
+              "RelativeToolTip": "ASS2_FE\\Pages\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwDMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T19:41:17.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllAccounts.cshtml",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Admin\\AllAccounts.cshtml",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\Admin\\AllAccounts.cshtml",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Admin\\AllAccounts.cshtml",
+              "RelativeToolTip": "ASS2_FE\\Pages\\Admin\\AllAccounts.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwDIAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T20:06:42.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SystemAccount.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\BusinessObject\\Models\\SystemAccount.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\SystemAccount.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\BusinessObject\\Models\\SystemAccount.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\SystemAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:04:29.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Admin\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\Admin\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Admin\\Index.cshtml.cs",
+              "RelativeToolTip": "ASS2_FE\\Pages\\Admin\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:45:10.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Login.cshtml",
+              "RelativeToolTip": "ASS2_FE\\Pages\\Login.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwD0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T19:32:08.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\News\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\News\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\News\\Edit.cshtml",
+              "RelativeToolTip": "ASS2_FE\\Pages\\News\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T21:05:20.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\News\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\News\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\News\\Delete.cshtml.cs",
+              "RelativeToolTip": "ASS2_FE\\Pages\\News\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T21:07:57.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\News\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\News\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\News\\Edit.cshtml.cs",
+              "RelativeToolTip": "ASS2_FE\\Pages\\News\\Edit.cshtml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwD4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T21:05:47.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\News\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\News\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\News\\Delete.cshtml",
+              "RelativeToolTip": "ASS2_FE\\Pages\\News\\Delete.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwDEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T21:07:24.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NewsArticleDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\DataAccess\\NewsArticleDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\NewsArticleDAO.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\DataAccess\\NewsArticleDAO.cs",
+              "RelativeToolTip": "DataAccess\\NewsArticleDAO.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:59:08.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Program.cs",
+              "RelativeDocumentMoniker": "ASS2_FE\\Program.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Program.cs",
+              "RelativeToolTip": "ASS2_FE\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:19:18.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\BusinessObject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\BusinessObject\\Models\\Category.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:04:24.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\BusinessObject\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\BusinessObject\\Models\\Tag.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:04:31.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASS2_FE\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2_FE\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASS2_FE\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T20:21:12.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SystemAccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\Controllers\\SystemAccountsController.cs",
+              "RelativeDocumentMoniker": "ASS2\\Controllers\\SystemAccountsController.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\Controllers\\SystemAccountsController.cs",
+              "RelativeToolTip": "ASS2\\Controllers\\SystemAccountsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:31:07.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Repository\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Repository\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:39:56.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "NewsArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\Controllers\\NewsArticlesController.cs",
+              "RelativeDocumentMoniker": "ASS2\\Controllers\\NewsArticlesController.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\Controllers\\NewsArticlesController.cs",
+              "RelativeToolTip": "ASS2\\Controllers\\NewsArticlesController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:55:28.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\Service\\TokenService.cs",
+              "RelativeToolTip": "Service\\Service\\TokenService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:01:21.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SystemAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Repository\\Repository\\SystemAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\SystemAccountRepository.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Repository\\Repository\\SystemAccountRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\SystemAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:39:39.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Repository\\Repository\\TagRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Repository\\Repository\\TagRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\TagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:40:04.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\Service\\CategoryService.cs",
+              "RelativeToolTip": "Service\\Service\\CategoryService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:04:24.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ASS2\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ASS2\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAywDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:55:54.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\Service\\TagService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\TagService.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\Service\\TagService.cs",
+              "RelativeToolTip": "Service\\Service\\TagService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:00:04.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NewsArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\Service\\NewsArticleService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\NewsArticleService.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\Service\\NewsArticleService.cs",
+              "RelativeToolTip": "Service\\Service\\NewsArticleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:05:45.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AdminConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\BusinessObject\\Models\\AdminConfig.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\AdminConfig.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\BusinessObject\\Models\\AdminConfig.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\AdminConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:21:10.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SystemAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\Service\\SystemAccountService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\SystemAccountService.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\Service\\SystemAccountService.cs",
+              "RelativeToolTip": "Service\\Service\\SystemAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:02:27.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ASS2.http",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\ASS2.http",
+              "RelativeDocumentMoniker": "ASS2\\ASS2.http",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\ASS2.http",
+              "RelativeToolTip": "ASS2\\ASS2.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-30T12:05:55.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\IService\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Service\\IService\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\IService\\ITokenService.cs",
+              "RelativeToolTip": "Service\\IService\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:00:58.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ISystemAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\IService\\ISystemAccountService.cs",
+              "RelativeDocumentMoniker": "Service\\IService\\ISystemAccountService.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\IService\\ISystemAccountService.cs",
+              "RelativeToolTip": "Service\\IService\\ISystemAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:57:43.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ITagService.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\IService\\ITagService.cs",
+              "RelativeDocumentMoniker": "Service\\IService\\ITagService.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\IService\\ITagService.cs",
+              "RelativeToolTip": "Service\\IService\\ITagService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:58:37.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "INewsArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\IService\\INewsArticleService.cs",
+              "RelativeDocumentMoniker": "Service\\IService\\INewsArticleService.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\IService\\INewsArticleService.cs",
+              "RelativeToolTip": "Service\\IService\\INewsArticleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:58:19.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\IService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\IService\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\IService\\ICategoryService.cs",
+              "RelativeToolTip": "Service\\IService\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:58:29.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T15:56:04.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NewsArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Repository\\Repository\\NewsArticleRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\NewsArticleRepository.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Repository\\Repository\\NewsArticleRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\NewsArticleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:39:47.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Repository\\IRepository\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Repository\\IRepository\\ITagRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository\\ITagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:39:12.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ISystemAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Repository\\IRepository\\ISystemAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository\\ISystemAccountRepository.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Repository\\IRepository\\ISystemAccountRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository\\ISystemAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:38:14.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "INewsArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Repository\\IRepository\\INewsArticleRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository\\INewsArticleRepository.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Repository\\IRepository\\INewsArticleRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository\\INewsArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:38:58.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:30:18.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\DataAccess\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\CategoryDAO.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\DataAccess\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccess\\CategoryDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:23:30.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TagDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\DataAccess\\TagDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\TagDAO.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\DataAccess\\TagDAO.cs",
+              "RelativeToolTip": "DataAccess\\TagDAO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:24:57.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SystemAccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\DataAccess\\SystemAccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\SystemAccountDAO.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\DataAccess\\SystemAccountDAO.cs",
+              "RelativeToolTip": "DataAccess\\SystemAccountDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:21:01.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FunewsManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\DataAccess\\FunewsManagementContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\FunewsManagementContext.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\DataAccess\\FunewsManagementContext.cs",
+              "RelativeToolTip": "DataAccess\\FunewsManagementContext.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAIwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:02:57.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T12:07:34.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\BusinessObject\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\BusinessObject\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:59:59.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BusinessObject.csproj",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\BusinessObject\\BusinessObject.csproj",
+              "RelativeDocumentMoniker": "BusinessObject\\BusinessObject.csproj",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\BusinessObject\\BusinessObject.csproj",
+              "RelativeToolTip": "BusinessObject\\BusinessObject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T12:20:59.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ASS2\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\ASS2\\ASS2\\ASS2\\WeatherForecast.cs",
+              "RelativeToolTip": "ASS2\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:39:23.187Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

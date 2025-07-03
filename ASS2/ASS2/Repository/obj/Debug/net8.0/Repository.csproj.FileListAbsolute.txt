@@ -1,0 +1,35 @@
+D:\PRN232\code\ASS2\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\PRN232\code\ASS2\Repository\bin\Debug\net8.0\Repository.dll
+D:\PRN232\code\ASS2\Repository\bin\Debug\net8.0\Repository.pdb
+D:\PRN232\code\ASS2\Repository\bin\Debug\net8.0\BusinessObject.dll
+D:\PRN232\code\ASS2\Repository\bin\Debug\net8.0\DataAccess.dll
+D:\PRN232\code\ASS2\Repository\bin\Debug\net8.0\BusinessObject.pdb
+D:\PRN232\code\ASS2\Repository\bin\Debug\net8.0\DataAccess.pdb
+D:\PRN232\code\ASS2\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\PRN232\code\ASS2\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN232\code\ASS2\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\PRN232\code\ASS2\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\PRN232\code\ASS2\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\PRN232\code\ASS2\Repository\obj\Debug\net8.0\Repository.sourcelink.json
+D:\PRN232\code\ASS2\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\PRN232\code\ASS2\Repository\obj\Debug\net8.0\Repository.dll
+D:\PRN232\code\ASS2\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\PRN232\code\ASS2\Repository\obj\Debug\net8.0\Repository.pdb
+D:\PRN232\code\ASS2\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\bin\Debug\net8.0\BusinessObject.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\bin\Debug\net8.0\DataAccess.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\bin\Debug\net8.0\BusinessObject.pdb
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\hhip4\OneDrive\Máy tính\FPTU\PRN232\ASS2\ASS2\Repository\obj\Debug\net8.0\ref\Repository.dll

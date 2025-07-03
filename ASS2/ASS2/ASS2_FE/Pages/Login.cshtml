@@ -1,0 +1,62 @@
+﻿@page
+@model ASS2_FE.Pages.LoginModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đăng nhập - FUNews</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
+    <style>
+        .gradient-bg {
+            background: linear-gradient(135deg, #4B5563 0%, #1F2937 100%);
+        }
+
+        .form-container {
+            background: rgba(255, 255, 255, 0.95);
+            border: 1px solid rgba(0, 0, 0, 0.1);
+        }
+
+        .input-field {
+            transition: all 0.3s ease;
+        }
+
+            .input-field:focus {
+                border-color: #3B82F6;
+                box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+            }
+    </style>
+</head>
+<body class="gradient-bg min-h-screen flex items-center justify-center p-4">
+    <div class="form-container rounded-2xl shadow-xl w-full max-w-md p-8">
+        <h3 class="text-2xl font-bold text-center text-gray-800 mb-6">Đăng nhập FUNews</h3>
+        <form method="post" class="space-y-6">
+            <div>
+                <label for="Email" class="block text-sm font-medium text-gray-700">Email</label>
+                <input asp-for="Email" class="input-field w-full mt-1 p-3 border border-gray-300 rounded-lg focus:outline-none" />
+                <span asp-validation-for="Email" class="text-red-500 text-sm"></span>
+            </div>
+            <div>
+                <label for="Password" class="block text-sm font-medium text-gray-700">Mật khẩu</label>
+                <input asp-for="Password" type="password" class="input-field w-full mt-1 p-3 border border-gray-300 rounded-lg focus:outline-none" />
+                <span asp-validation-for="Password" class="text-red-500 text-sm"></span>
+            </div>
+            <button type="submit" class="w-full bg-blue-600 text-white p-3 rounded-lg hover:bg-blue-700 transition duration-300">Đăng nhập</button>
+            @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+            {
+                <div class="text-red-500 text-center">@Model.ErrorMessage</div>
+            }
+        </form>
+        <p class="mt-4 text-center text-sm text-gray-600">
+            Chưa có tài khoản? <a href="/Register" class="text-blue-600 hover:underline">Đăng ký</a>
+        </p>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>

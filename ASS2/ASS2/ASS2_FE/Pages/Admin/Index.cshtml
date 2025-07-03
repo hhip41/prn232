@@ -1,0 +1,52 @@
+﻿@page
+@model ASS2_FE.Pages.Admin.IndexModel
+@{
+    ViewData["Title"] = "Trang quản trị Admin";
+}
+
+<!-- Tiêu đề chính -->
+<div class="container my-5">
+    <h2 class="mb-4 fw-bold text-dark">Trang quản trị Admin</h2>
+
+    <!-- Bố cục thẻ -->
+    <div class="row row-cols-1 row-cols-md-2 g-4">
+        <!-- Thẻ: Tất cả bài viết -->
+        <div class="col">
+            <div class="card h-100 shadow-sm border-0">
+                <div class="card-body">
+                    <h5 class="card-title fw-semibold text-primary">Tất cả bài viết</h5>
+                    <p class="card-text text-muted">Xem toàn bộ bài viết từ mọi người dùng trong hệ thống.</p>
+                    <a href="/News/All" class="btn btn-outline-primary">Xem bài viết</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Thẻ: Tất cả tài khoản -->
+        <div class="col">
+            <div class="card h-100 shadow-sm border-0">
+                <div class="card-body">
+                    <h5 class="card-title fw-semibold text-primary">Tất cả tài khoản</h5>
+                    <p class="card-text text-muted">Quản lý danh sách toàn bộ người dùng hệ thống.</p>
+                    <a href="/Admin/AllAccounts" class="btn btn-outline-primary">Xem tài khoản</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- CSS tùy chỉnh -->
+<style>
+    .card {
+        transition: transform 0.2s;
+    }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+    .btn-outline-primary {
+        border-radius: 0.25rem;
+        padding: 0.5rem 1.5rem;
+    }
+</style>
