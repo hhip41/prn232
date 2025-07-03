@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68C057D8-25E9-4735-842C-30FF0AB19701}|Services\\Services.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\de170447_phamthanhvu_lab2\\services\\icosmeticinformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C057D8-25E9-4735-842C-30FF0AB19701}|Services\\Services.csproj|solutionrelative:services\\icosmeticinformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC7F211-2AA4-4D6A-BBDF-EDFC46022246}|WebAPI\\WebAPI.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\de170447_phamthanhvu_lab2\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DC7F211-2AA4-4D6A-BBDF-EDFC46022246}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C057D8-25E9-4735-842C-30FF0AB19701}|Services\\Services.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\de170447_phamthanhvu_lab2\\services\\systemaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C057D8-25E9-4735-842C-30FF0AB19701}|Services\\Services.csproj|solutionrelative:services\\systemaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6453EF-EA2F-43DE-AB0D-BAF20E1E8757}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\de170447_phamthanhvu_lab2\\dataaccessobjects\\systemaccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F6453EF-EA2F-43DE-AB0D-BAF20E1E8757}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\systemaccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC7F211-2AA4-4D6A-BBDF-EDFC46022246}|WebAPI\\WebAPI.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\de170447_phamthanhvu_lab2\\webapi\\controllers\\cosmeticinformationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC7F211-2AA4-4D6A-BBDF-EDFC46022246}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\cosmeticinformationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC7F211-2AA4-4D6A-BBDF-EDFC46022246}|WebAPI\\WebAPI.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\de170447_phamthanhvu_lab2\\webapi\\controllers\\systemaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC7F211-2AA4-4D6A-BBDF-EDFC46022246}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\systemaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC7F211-2AA4-4D6A-BBDF-EDFC46022246}|WebAPI\\WebAPI.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\de170447_phamthanhvu_lab2\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC7F211-2AA4-4D6A-BBDF-EDFC46022246}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC7F211-2AA4-4D6A-BBDF-EDFC46022246}|WebAPI\\WebAPI.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\de170447_phamthanhvu_lab2\\webapi\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC7F211-2AA4-4D6A-BBDF-EDFC46022246}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C057D8-25E9-4735-842C-30FF0AB19701}|Services\\Services.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\de170447_phamthanhvu_lab2\\services\\isystemaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C057D8-25E9-4735-842C-30FF0AB19701}|Services\\Services.csproj|solutionrelative:services\\isystemaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C057D8-25E9-4735-842C-30FF0AB19701}|Services\\Services.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\de170447_phamthanhvu_lab2\\services\\cosmeticinformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C057D8-25E9-4735-842C-30FF0AB19701}|Services\\Services.csproj|solutionrelative:services\\cosmeticinformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BCBB9F-49D8-4222-9A90-950EF88849CE}|Repositories\\Repositories.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\de170447_phamthanhvu_lab2\\repositories\\systemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BCBB9F-49D8-4222-9A90-950EF88849CE}|Repositories\\Repositories.csproj|solutionrelative:repositories\\systemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BCBB9F-49D8-4222-9A90-950EF88849CE}|Repositories\\Repositories.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\de170447_phamthanhvu_lab2\\repositories\\cosmeticinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BCBB9F-49D8-4222-9A90-950EF88849CE}|Repositories\\Repositories.csproj|solutionrelative:repositories\\cosmeticinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BCBB9F-49D8-4222-9A90-950EF88849CE}|Repositories\\Repositories.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\de170447_phamthanhvu_lab2\\repositories\\isystemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BCBB9F-49D8-4222-9A90-950EF88849CE}|Repositories\\Repositories.csproj|solutionrelative:repositories\\isystemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BCBB9F-49D8-4222-9A90-950EF88849CE}|Repositories\\Repositories.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\de170447_phamthanhvu_lab2\\repositories\\icosmeticinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BCBB9F-49D8-4222-9A90-950EF88849CE}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icosmeticinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379E509-A129-4D9A-8162-94C9DB0D33E7}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\de170447_phamthanhvu_lab2\\businessobjects\\cosmeticdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D379E509-A129-4D9A-8162-94C9DB0D33E7}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\cosmeticdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D379E509-A129-4D9A-8162-94C9DB0D33E7}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\hhip4\\onedrive\\m\u00E1y t\u00EDnh\\fptu\\prn232\\de170447_phamthanhvu_lab2\\businessobjects\\cosmeticcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D379E509-A129-4D9A-8162-94C9DB0D33E7}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\cosmeticcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T01:41:00.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CosmeticInformationsController.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\WebAPI\\Controllers\\CosmeticInformationsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CosmeticInformationsController.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\WebAPI\\Controllers\\CosmeticInformationsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CosmeticInformationsController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:06:00.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SystemAccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\WebAPI\\Controllers\\SystemAccountsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\SystemAccountsController.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\WebAPI\\Controllers\\SystemAccountsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\SystemAccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:05:32.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:03:45.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SystemAccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\DataAccessObjects\\SystemAccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\SystemAccountDAO.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\DataAccessObjects\\SystemAccountDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\SystemAccountDAO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:56:04.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\Services\\SystemAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\SystemAccountService.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\Services\\SystemAccountService.cs",
+              "RelativeToolTip": "Services\\SystemAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:59:05.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\WebAPI\\AccountDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\AccountDTO.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\WebAPI\\AccountDTO.cs",
+              "RelativeToolTip": "WebAPI\\AccountDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:03:28.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CosmeticInformationService.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\Services\\CosmeticInformationService.cs",
+              "RelativeDocumentMoniker": "Services\\CosmeticInformationService.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\Services\\CosmeticInformationService.cs",
+              "RelativeToolTip": "Services\\CosmeticInformationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:58:39.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISystemAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\Services\\ISystemAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\ISystemAccountService.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\Services\\ISystemAccountService.cs",
+              "RelativeToolTip": "Services\\ISystemAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:58:25.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICosmeticInformationService.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\Services\\ICosmeticInformationService.cs",
+              "RelativeDocumentMoniker": "Services\\ICosmeticInformationService.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\Services\\ICosmeticInformationService.cs",
+              "RelativeToolTip": "Services\\ICosmeticInformationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:57:59.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SystemAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\Repositories\\SystemAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SystemAccountRepository.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\Repositories\\SystemAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\SystemAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:57:24.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CosmeticInformationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\Repositories\\CosmeticInformationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CosmeticInformationRepository.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\Repositories\\CosmeticInformationRepository.cs",
+              "RelativeToolTip": "Repositories\\CosmeticInformationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:57:07.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISystemAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\Repositories\\ISystemAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ISystemAccountRepository.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\Repositories\\ISystemAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\ISystemAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:56:51.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICosmeticInformationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\Repositories\\ICosmeticInformationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICosmeticInformationRepository.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\Repositories\\ICosmeticInformationRepository.cs",
+              "RelativeToolTip": "Repositories\\ICosmeticInformationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:56:38.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CosmeticCategory.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\BusinessObjects\\CosmeticCategory.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\CosmeticCategory.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\BusinessObjects\\CosmeticCategory.cs",
+              "RelativeToolTip": "BusinessObjects\\CosmeticCategory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:36:58.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CosmeticDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\BusinessObjects\\CosmeticDbContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\CosmeticDbContext.cs",
+              "ToolTip": "C:\\Users\\hhip4\\OneDrive\\M\u00E1y t\u00EDnh\\FPTU\\PRN232\\DE170447_PhamThanhVu_Lab2\\BusinessObjects\\CosmeticDbContext.cs",
+              "RelativeToolTip": "BusinessObjects\\CosmeticDbContext.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwvxAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:25:11.743Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

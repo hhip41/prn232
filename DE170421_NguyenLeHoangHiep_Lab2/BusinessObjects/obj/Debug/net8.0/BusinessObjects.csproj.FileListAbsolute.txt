@@ -1,0 +1,14 @@
+E:\FPT_UNIVERSITY\PRN232\DE170447_PhamThanhVu_Lab2\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+E:\FPT_UNIVERSITY\PRN232\DE170447_PhamThanhVu_Lab2\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+E:\FPT_UNIVERSITY\PRN232\DE170447_PhamThanhVu_Lab2\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+E:\FPT_UNIVERSITY\PRN232\DE170447_PhamThanhVu_Lab2\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+E:\FPT_UNIVERSITY\PRN232\DE170447_PhamThanhVu_Lab2\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+E:\FPT_UNIVERSITY\PRN232\DE170447_PhamThanhVu_Lab2\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT_UNIVERSITY\PRN232\DE170447_PhamThanhVu_Lab2\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+E:\FPT_UNIVERSITY\PRN232\DE170447_PhamThanhVu_Lab2\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+E:\FPT_UNIVERSITY\PRN232\DE170447_PhamThanhVu_Lab2\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+E:\FPT_UNIVERSITY\PRN232\DE170447_PhamThanhVu_Lab2\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+E:\FPT_UNIVERSITY\PRN232\DE170447_PhamThanhVu_Lab2\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+E:\FPT_UNIVERSITY\PRN232\DE170447_PhamThanhVu_Lab2\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+E:\FPT_UNIVERSITY\PRN232\DE170447_PhamThanhVu_Lab2\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+E:\FPT_UNIVERSITY\PRN232\DE170447_PhamThanhVu_Lab2\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
